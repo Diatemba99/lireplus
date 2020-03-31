@@ -1,0 +1,21 @@
+body
+{
+margin-top: 50px;
+margin: 25px;
+}
+h1
+{
+color: salmon;
+font-size: 2em;
+}
+
+p
+{
+    color: #222;
+    font-size: 25px;
+    line-height: 35px;
+}
+#more
+{
+    display: none;
+}
